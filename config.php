@@ -1,0 +1,7 @@
+<?php
+	$hn = <PUT_HOSTNAME_HERE>;
+	$un = <PUT_USERNAME_HERE>;
+	$pw = <PUT_PASSWORD_HERE>;
+	$db = <PUT_DATABASENAME_HERE>;
+?>
+
